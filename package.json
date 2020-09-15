@@ -1,0 +1,40 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "nodemon": "nodemon index.js",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "axios": "^0.20.0",
+    "canvas-senpai": "^0.1.6",
+    "colornames": "^1.1.1",
+    "dateformat": "^3.0.3",
+    "discord.js": "^12.3.1",
+    "dotenv": "^8.2.0",
+    "fs": "0.0.1-security",
+    "imdb-api": "^4.2.0",
+    "moment": "^2.27.0",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^5.10.3",
+    "ms": "^2.1.2",
+    "node-fetch": "^2.6.1",
+    "node-superfetch": "^0.1.10",
+    "os": "^0.1.1",
+    "quick.db": "^7.1.1",
+    "random-puppy": "^1.1.0",
+    "request": "^2.88.2",
+    "request-promise-native": "^1.0.9",
+    "something-random-on-discord": "0.0.2",
+    "twemoji-parser": "^13.0.0",
+    "weather-js": "^2.0.0",
+    "ytdl-core": "^3.2.2"
+  }
+}
